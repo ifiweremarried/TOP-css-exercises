@@ -1,0 +1,19 @@
+.par {
+    background-color: rgb(213, 105, 123);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.par.extra {
+    font-size: 24px;
+}
+
+#num2 {
+    color: rgb(44, 44, 207);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: rgb(162, 232, 162);
+    font-size: 24px;
+    font-weight: bold;
+}
