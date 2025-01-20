@@ -1,6 +1,26 @@
+*{
+  margin: 0; 
+  padding: 0;
+}
+
 .header  {
-  font-family: monospace;
+  font-family: serif;
   background: papayawhip;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px; 
+  align-items: center;
+}
+
+a {
+  /* display: block; */
+}
+
+.left-links ul, 
+.right-links ul {
+  display: flex;
+  gap: 10px;
+  font-size: 14px;
 }
 
 .logo {
