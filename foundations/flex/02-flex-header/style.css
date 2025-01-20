@@ -12,10 +12,6 @@
   align-items: center;
 }
 
-a {
-  /* display: block; */
-}
-
 .left-links ul, 
 .right-links ul {
   display: flex;
